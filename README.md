@@ -54,7 +54,7 @@ $ . .my_env/bin/activate
 </details>
 
 <details>
-  <summary><b><strong>RUN THE APP ON LOCALHOST, VIA JUPYTER NOTEBOOK</strong></b></summary>
+  <summary><b><strong>RUN THE APP ON LOCALHOST (JUPYTER NOTEBOOK)</strong></b></summary>
 
 ### 1) Install jupyter notebook on your own device (if you haven't it yet)
   
