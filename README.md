@@ -7,7 +7,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Brief Description
+## Brief description
 This project is related to a No-SQL database, whose data are referred to autoctone botanic species. 
 <br>
 The final goal is creating a function that performs the estimation of the ornamental value, given the specific characteristics of a single species.
