@@ -1,7 +1,10 @@
 # Ornamental value estimation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/LICENSE)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Brief Description
 This project is related to a No-SQL database, whose data are referred to autoctone botanic species. 
