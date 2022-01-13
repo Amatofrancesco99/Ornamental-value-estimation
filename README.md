@@ -11,7 +11,7 @@ The final goal is creating a function that performs the estimation of the orname
 
 ## Other
 <details>
-  <summary><b><strong>SETTING UP THE LOCAL TESTING ENVIRONMENT</strong></b></summary>
+  <summary><b><strong>SETTING UP THE LOCAL ENVIRONMENT</strong></b></summary>
 
 ### 1) Clone this repo
 ...and navigate to its root directory.
@@ -50,23 +50,26 @@ $ . .my_env/bin/activate
 ```
 (.my_env)$ pip install -r requirements.txt
 ```
-  
-### 5) Run the app on localhost
 
-#### 5.1) Install jupyter notebook on your own device (if you don't have it yet)
+</details>
+
+<details>
+  <summary><b><strong>RUN THE APP ON LOCALHOST, VIA JUPYTER NOTEBOOK</strong></b></summary>
+
+### 1) Install jupyter notebook on your own device (if you don't have it yet)
   
 ```
 (.my_env)$ pip install notebook
 ```
   
-#### 5.2) Run jupyter notebook (if you already downloaded it)
+### 2) Run jupyter notebook (if you already downloaded it)
   
 ```
 (.my_env)$ jupyter notebook
 ```
 
-#### 5.3) Open the ```.ipynb``` file
+### 3) Open the ```.ipynb``` file
   
-#### 5.4) Enjoy 🤠
+### 4) Enjoy 🤠
   
 </details>
