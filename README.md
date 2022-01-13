@@ -26,7 +26,7 @@ The final goal is creating a function that performs the estimation of the orname
 $ python3 -m venv .my_env
 ```
 
-(You'll be prompted to install the 'venv' module if you don't have it yet).
+(You'll be prompted to install the 'venv' module if you haven't it yet).
 
   
 ### 3) Activate the virtual environment:
@@ -56,13 +56,13 @@ $ . .my_env/bin/activate
 <details>
   <summary><b><strong>RUN THE APP ON LOCALHOST, VIA JUPYTER NOTEBOOK</strong></b></summary>
 
-### 1) Install jupyter notebook on your own device (if you don't have it yet)
+### 1) Install jupyter notebook on your own device (if you haven't it yet)
   
 ```
 (.my_env)$ pip install notebook
 ```
   
-### 2) Run jupyter notebook (if you already downloaded it)
+### 2) Run jupyter notebook (if you already downloaded it)
   
 ```
 (.my_env)$ jupyter notebook
