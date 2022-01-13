@@ -72,7 +72,7 @@ $ . .my_env/bin/activate
 (.my_env)$ jupyter notebook
 ```
 
-### 3) Open the ```.ipynb``` file
+### 3) Open the ```ornamental_value_estimation.ipynb``` file
   
 ### 4) Enjoy 🤠
   
