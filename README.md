@@ -77,3 +77,15 @@ $ . .my_env/bin/activate
 ### 4) Enjoy 🤠
   
 </details>
+
+<details>
+  <summary><b><strong>ENABLE DARK THEME ON JUPYTER NOTEBOOK </strong></b></summary>
+
+![image](https://user-images.githubusercontent.com/80333091/149359355-6f027794-931e-45ef-95d0-4857dd9bd477.png)
+     
+```
+pip install jupyterthemes
+jt -t chesterish
+```
+     
+</details>
