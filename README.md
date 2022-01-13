@@ -51,7 +51,7 @@ $ . .my_env/bin/activate
 (.my_env)$ pip install -r requirements.txt
 ```
   
-### 5) Run the app on localhost!
+### 5) Run the app on localhost
 
 #### 5.1) Install jupyter notebook on your own device (if you don't have it yet)
   
@@ -64,5 +64,9 @@ $ . .my_env/bin/activate
 ```
 (.my_env)$ jupyter notebook
 ```
+
+#### 5.3) Open the ```.ipynb``` file
+  
+#### 5.4) Enjoy 🤠
   
 </details>
