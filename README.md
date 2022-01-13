@@ -16,6 +16,7 @@ The final goal is creating a function that performs the estimation of the orname
 ### 1) Clone this repo
 ...and navigate to its root directory.
 
+  
 ### 2) Create a python virtual environment 
 ...calling it '.my_env' 
 
@@ -27,6 +28,7 @@ $ python3 -m venv .my_env
 
 (You'll be prompted to install the 'venv' module if you don't have it yet).
 
+  
 ### 3) Activate the virtual environment:
 
 ```
@@ -41,29 +43,26 @@ $ . .my_env/bin/activate
 
 (You should notice that the console starts displaying the virtual environment's name before your username and the dollar-sign).
 
-
+  
 ### 4) Install this app's dependencies 
 ... on the virtual environment you just created:
 
 ```
 (.my_env)$ pip install -r requirements.txt
 ```
+  
 ### 5) Run the app on localhost!
 
+#### 5.1) Install jupyter notebook on your own device (if you don't have it yet)
+  
 ```
-(.my_env)$ python3 -m flask run
+(.my_env)$ pip install notebook
 ```
-
-### Sample output:
-
+  
+#### 5.2) Run jupyter notebook (if you already downloaded it)
+  
 ```
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+(.my_env)$ jupyter notebook
 ```
-
-Click on the link, and the homepage will be launched on your default browser.
-
+  
 </details>
