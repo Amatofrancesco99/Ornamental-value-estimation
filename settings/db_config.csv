@@ -1,5 +1,5 @@
 key,val
-username,
-password,
-database,
-cluster,
+username,thebestusername
+password,thebestpassword
+database,my_db
+cluster,cluster0.4md76.mongodb.net

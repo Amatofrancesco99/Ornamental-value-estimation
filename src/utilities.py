@@ -158,10 +158,10 @@ def get_connection_string():
 
 
 
-def store_into_mongodb_istance(json_array):
+def store_into_mongodb_istance(json_file):
     
     """
-    json_array should be an actual list of json objects (non-stringified).
+    json_file should be an actual list of json objects (non-stringified).
     
     eg:
     
@@ -176,4 +176,9 @@ def store_into_mongodb_istance(json_array):
     client = pymongo.MongoClient(conn_string)
     
     # OVE: stands for Ornamental Value Estimation
-    client.OVE.data.insert_many(json_array)
+    client.OVE.data.insert_many(json_file)
+    
+    
+def store_locally(json_file):
+    with open('../ornamental_db.json', 'w+') as dest:
+        json.dump(json_file, dest)
