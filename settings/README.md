@@ -1,0 +1,1 @@
+This folder contains files destined to storing local settings.
