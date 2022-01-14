@@ -21,7 +21,7 @@ You can find an in-depth study of this topic, at this **[link](http://csu.unipv.
 
 ## 🖥 Download
 If you want to download the whole ```.json``` file, click here:
-<a href="https://raw.githubusercontent.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/ornamental_db.json" download><strong>DOWNLOAD</strong></a>
+<a href="https://raw.githubusercontent.com/Amatofrancesco99/Ornamental-value-estimation/main/ornamental_db.json" download><strong>DOWNLOAD</strong></a>
 
 
 ## 🤩 Other
