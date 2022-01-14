@@ -16,7 +16,7 @@ The final goal is creating a function that performs the estimation of the orname
 (The ornamental value is a figure of merit that can be used in order to decide if a specific species can be planted in a specific area.
 The higher the ornamental value, the best the result)
 <br><br>
-You can find an in-depth study of this topic, at [link](http://csu.unipv.it/wp-content/uploads/2022/01/Tesi-Colombini.pdf).
+You can find an in-depth study of this topic, at this **[link](http://csu.unipv.it/wp-content/uploads/2022/01/Tesi-Colombini.pdf)**.
 
 
 ## 🖥 Download
