@@ -92,6 +92,9 @@ jt -t chesterish
 
 
 <details>
+
+<summary><b><strong> CREDENTIALS FOR THE DB </strong></b></summary>
+
 Please remember to create the file settings/db_config.csv and fill it up as such:
 
 ```
