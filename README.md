@@ -7,13 +7,26 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Brief description
-This project is related to a No-SQL database, whose data are referred to autoctone botanic species. 
+
+## 💐 Brief description
+This project is related to a No-SQL database, whose data are referred to *autoctone botanic species*. 
 <br>
 The final goal is creating a function that performs the estimation of the ornamental value, given the specific characteristics of a single species.
+<br>
+(The ornamental value is a figure of merit that can be used in order to decide if a specific species can be planted in a specific area.
+The higher the ornamental value, the best the result)
+<br><br>
+You can find an in-depth study of this topic, at [link](http://csu.unipv.it/wp-content/uploads/2022/01/Tesi-Colombini.pdf).
 
 
-## Other
+## 🖥 Download
+If you want to download the whole ```.json``` file, click here:
+<a href="https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/ornamental_db.json" download><strong>DOWNLOAD</strong></a>
+
+
+## 🤩 Other
+
+
 <details>
   <summary><b><strong>SETTING UP THE LOCAL ENVIRONMENT</strong></b></summary>
 
@@ -57,6 +70,8 @@ $ . .my_env/bin/activate
 
 </details>
 
+
+
 <details>
   <summary><b><strong>RUN THE APP ON LOCALHOST (JUPYTER NOTEBOOK)</strong></b></summary>
 
@@ -78,17 +93,6 @@ $ . .my_env/bin/activate
   
 </details>
 
-<details>
-  <summary><b><strong>ENABLE DARK THEME ON JUPYTER NOTEBOOK </strong></b></summary>
-
-![image](https://user-images.githubusercontent.com/80333091/149359355-6f027794-931e-45ef-95d0-4857dd9bd477.png)
-     
-```
-pip install jupyterthemes
-jt -t chesterish
-```
-     
-</details>
 
 
 <details>
@@ -105,4 +109,18 @@ database,<yourdbsnamehere>
 cluster,<yourclusterhere>
 ```
   
+</details>
+
+  
+
+<details>
+  <summary><b><strong>ENABLE DARK THEME ON JUPYTER NOTEBOOK </strong></b></summary>
+
+![image](https://user-images.githubusercontent.com/80333091/149359355-6f027794-931e-45ef-95d0-4857dd9bd477.png)
+     
+```
+pip install jupyterthemes
+jt -t chesterish
+```
+     
 </details>
