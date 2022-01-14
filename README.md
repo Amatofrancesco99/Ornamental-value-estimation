@@ -89,3 +89,17 @@ jt -t chesterish
 ```
      
 </details>
+
+
+<details>
+Please remember to create the file settings/db_config.csv and fill it up as such:
+
+```
+key,val
+username,<yourusernamehere>
+password,<yourpasswordhere>
+database,<yourdbsnamehere>
+cluster,<yourclusterhere>
+```
+  
+</details>
