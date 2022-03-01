@@ -25,7 +25,7 @@ If you want to download the whole ```.json``` file, click here:
 
 ## Presentation
 Link to the pdf presentation of the project:
-<a href=""></a>
+<a href="https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf">https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf</a>
 
 
 ## 🤩 Other
