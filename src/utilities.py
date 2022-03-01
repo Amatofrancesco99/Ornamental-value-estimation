@@ -175,6 +175,11 @@ def store_into_mongodb_istance(json_file):
     
     client = pymongo.MongoClient(conn_string)
     
+    
+    # clear any data that is already there
+    client.OVE.data.delete_many({})
+
+
     # OVE: stands for Ornamental Value Estimation
     client.OVE.data.insert_many(json_file)
     
