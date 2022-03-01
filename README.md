@@ -43,13 +43,13 @@ If you want to download the whole ```.json``` file, click here:
 $ python3 -m venv .my_env
 ```
 
-(You'll be prompted to install the 'venv' module if you haven't it yet).
+(You'll be prompted to install the 'venv' module if you don't have it yet).
 
   
 ### 3) Activate the virtual environment:
 
 ```
-$ source ./my_env/bin/activate
+$ source .my_env/bin/activate
 ```
 
 If this command doesn't work try with:
