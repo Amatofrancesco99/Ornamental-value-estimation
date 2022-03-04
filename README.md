@@ -85,11 +85,12 @@ If you want to install the exact tested versions of the libraries.
 <details>
   <summary><b><strong>RUN THE APP ON LOCALHOST (JUPYTER NOTEBOOK)</strong></b></summary>
 
-### 1) Install jupyter notebook on your own device (if you haven't it yet)
+### 1) Install jupyter notebook on your own device (if you don't have it yet)
   
 ```
 (.my_env)$ pip install notebook
 ```
+(But it should already be included in the requirements as 'jupyter').
   
 ### 2) Run jupyter notebook (if you already downloaded it)
   
