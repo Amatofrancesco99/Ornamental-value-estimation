@@ -66,11 +66,18 @@ $ . .my_env/bin/activate
   
 ### 4) Install this app's dependencies 
 ... on the virtual environment you just created:
+  
+```
+(.my_env)$ pip install -r requirements.min.txt
+```
 
+Or:
+  
 ```
 (.my_env)$ pip install -r requirements.txt
 ```
-
+If you want to install the exact tested versions of the libraries.
+  
 </details>
 
 
