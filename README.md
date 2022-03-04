@@ -23,11 +23,11 @@ You can find an in-depth study of this topic, at this **[link](http://csu.unipv.
 If you want to download the whole ```.json``` file, click here:
 <a href="https://drive.google.com/uc?export=download&id=1qbFqC_eSVcBgorBP0HvW2fprnrDihGQP" ><strong>DOWNLOAD</strong></a>
 
-## Presentation
+## 🎥 Presentation
 For the pdf presentation of the project, this is the <a href="https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf">link</a>
 
 
-## 🤩 Other
+## ℹ️ Other
 
 
 <details>
