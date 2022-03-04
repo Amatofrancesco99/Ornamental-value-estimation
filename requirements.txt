@@ -10,6 +10,7 @@ click==8.0.3
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
+dnspython==2.2.0
 entrypoints==0.3
 executing==0.8.2
 importlib-resources==5.4.0
@@ -51,6 +52,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.1
 pycparser==2.21
 Pygments==2.11.2
+pymongo==4.0.2
 pyparsing==3.0.6
 pyrsistent==0.18.0
 python-dateutil==2.8.2
@@ -70,4 +72,5 @@ typing-extensions==4.0.1
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
+xlrd==2.0.1
 zipp==3.7.0
