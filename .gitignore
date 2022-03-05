@@ -128,13 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# local virtual envinronment
+# Local virtual envinronment
 .my_env/
 
 # .DS_Store
 .DS_Store
 
-# local config-files/settings and the like
+# Local configuration settings
 settings/ 
-
-

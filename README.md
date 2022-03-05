@@ -115,16 +115,18 @@ If you want to install the exact tested versions of the libraries.
 
 <summary><b><strong> CREDENTIALS FOR THE DB </strong></b></summary>
 
-Please remember to create the file settings/db_config.csv and fill it up as such:
+The file `settings/db_config.csv` should contain the configuration settings needed to connect to the MongoDB instance.
+
+The file format should be as follows:
 
 ```
 key,val
-username,<yourusernamehere>
-password,<yourpasswordhere>
-database,<yourdbsnamehere>
-cluster,<yourclusterhere>
+username,<your-username-here>
+password,<your-password-here>
+database,<your-database-name-here>
+cluster,<your-cluster-address-here>
 ```
-  
+
 </details>
 
   
