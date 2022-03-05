@@ -24,12 +24,9 @@ If you want to download the whole ```.json``` file, click here:
 <a href="https://drive.google.com/uc?export=download&id=1qbFqC_eSVcBgorBP0HvW2fprnrDihGQP" ><strong>DOWNLOAD</strong></a>
 
 ## 🎥 Presentation
-For the pdf presentation of the project, this is the <a href="https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf">link</a>
-
+Project presentation: <a href="https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf"><strong>LINK</strong></a>.
 
 ## ℹ️ Other
-
-
 <details>
   <summary><b><strong>SETTING UP THE LOCAL ENVIRONMENT</strong></b></summary>
 
