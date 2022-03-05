@@ -60,6 +60,11 @@ If this command doesn't work try with:
 ```
 $ . .my_env/bin/activate
 ```
+  
+In Windows 10 try with :
+```
+.\.my_env\Scripts\activate.bat
+```
 
 (You should notice that the console starts displaying the virtual environment's name before your username and the dollar-sign).
 
