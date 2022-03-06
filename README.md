@@ -22,17 +22,18 @@ You can find an in-depth study of this topic at [this link](http://csu.unipv.it/
 [Link to the whole **`.json` database** file](https://drive.google.com/uc?export=download&id=1qbFqC_eSVcBgorBP0HvW2fprnrDihGQP).
 
 ## 🎥 Presentation
-[Link to the **`.pdf` presentation**](https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf) of the project.
+[Link to the project **`.pdf` presentation**](https://github.com/Amatofrancesco99/Ornamental-value-estimation/blob/main/presentation/presentation.pdf).
 
 ## ℹ️ Other
 <details>
 <summary><b>Setting up the local environment</b></summary>
-### 1) Clone This Repo
+  
+### 1) Clone this Repository
 ...and navigate to its root directory.
 
   
 ### 2) Create a Python Virtual Environment 
-...calling it '.my_env' 
+...calling it `.my_env` 
 
 (For gitignore-related reasons).
 
@@ -40,7 +41,7 @@ You can find an in-depth study of this topic at [this link](http://csu.unipv.it/
 $ python3 -m venv .my_env
 ```
 
-(You'll be prompted to install the 'venv' module if you don't have it yet).
+(You'll be prompted to install the `venv` module if you don't have it yet).
 
   
 ### 3) Activate the Virtual Environment
@@ -77,18 +78,27 @@ If instead you want to install the very same versions of the libraries that we u
 </details>
 
 <details>
-<summary><b>Run the app on `localhost`</b></summary>  
-### 1) Run `jupyter` Notebook
+<summary><b>Run the app on localhost</b></summary> 
+  
+### 1) Install `jupyter notebook` 
+If you have not already installed on your device, run:
+  
+```
+$ pip install notebook
+```
+  
+### 2) Run `jupyter notebook`
   
 ```
 (.my_env)$ jupyter notebook
 ```
 
-### 2) Open `main.ipynb` and Enjoy 🤠
+### 3) Open `main.ipynb` and Enjoy 🤠
 </details>
 
 <details>
 <summary><b>Setup the database credentials</b></summary>
+  
 The file `settings/db_config.csv` should contain the configuration settings needed to connect to the MongoDB instance.
 
 The file format should be as follows:
@@ -103,8 +113,9 @@ cluster,<your-cluster-address-here>
 </details>
 
 <details>
-<summary><b>Enable the dark theme on `jupyter` notebook</b></summary>
-To switch to the dark `jupyter` notebook theme run: 
+<summary><b>Enable the dark theme on jupyter notebook</b></summary>
+  
+To switch to the dark `jupyter notebook` theme run: 
 
 ```
 (.my_env)$ pip install jupyterthemes
